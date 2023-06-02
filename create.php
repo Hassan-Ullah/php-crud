@@ -40,6 +40,9 @@ $conn->close();
             <input type="radio" name="female">Female
             <br><br>
             <input type="submit" name="submit" value="submit">
+
+
+
         </fieldset>
 
 
